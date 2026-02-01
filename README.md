@@ -52,11 +52,27 @@ Check the `SUBMISSION.md` file for a formal submission template you can fill and
 
 ## 📧 معلومات الاتصال / Contact Information
 
-إذا كنت بحاجة لمساعدة إضافية، تواصل مع:  
-If you need additional help, contact:
+### معلومات الدكتور / Professor Information
 
-- **الدكتور المشرف / Supervising Professor:** [أدخل اسم الدكتور / Enter professor name]
-- **البريد الإلكتروني / Email:** [أدخل البريد الإلكتروني / Enter email]
+- **الدكتور المشرف / Supervising Professor:** د. تمام درويش / Dr. Tammam Darwish
+- **حساب GitHub:** [@Tammam.Darwish](https://github.com/Tammam.Darwish)
+- **رابط الملف الشخصي / Profile Link:** https://github.com/Tammam.Darwish
+
+### كيفية التواصل مع الدكتور / How to Contact the Professor
+
+1. **عبر GitHub:**
+   - زر حساب الدكتور: https://github.com/Tammam.Darwish
+   - يمكنك mention الدكتور في issue أو comment بكتابة `@Tammam.Darwish`
+
+2. **لإضافة الدكتور كمتعاون في المستودع:**
+   - اذهب إلى Settings → Collaborators
+   - اضغط "Add people"
+   - ابحث عن: `Tammam.Darwish`
+   - اضغط "Add Tammam.Darwish to this repository"
+
+3. **لإرسال رابط المشروع للدكتور:**
+   - أرسل هذا الرابط: https://github.com/TalaAmerAlHakim/MyProject
+   - الدكتور سيتمكن من رؤية جميع الملفات مباشرة
 
 ---
 

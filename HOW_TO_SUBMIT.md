@@ -14,8 +14,10 @@ https://github.com/TalaAmerAlHakim/MyProject
 
 ### 3. استخدم هذه الرسالة / Use this message:
 
+**للدكتور تمام درويش (GitHub: @Tammam.Darwish)**
+
 ```
-السلام عليكم أستاذي الفاضل،
+السلام عليكم د. تمام درويش،
 
 أتشرف بإرسال مشروعي: "نظام إدارة العمل عن بعد"
 
@@ -23,6 +25,8 @@ https://github.com/TalaAmerAlHakim/MyProject
 https://github.com/TalaAmerAlHakim/MyProject
 
 اسم الملف: تالا الحكيم_مشروع نظام ادارة العمل عن بعد.pdf
+
+حساب GitHub الخاص بي: @TalaAmerAlHakim
 
 مع خالص الشكر والتقدير،
 تالا عامر الحكيم
@@ -69,3 +73,26 @@ If you're still unsure, you can:
 
 **كل ما عليك الآن هو إرسال الرابط للدكتور! 🚀**  
 **All you need to do now is send the link to the professor! 🚀**
+
+---
+
+## 👨‍🏫 معلومات الدكتور / Professor Information
+
+**الدكتور:** تمام درويش / Dr. Tammam Darwish  
+**حساب GitHub:** [@Tammam.Darwish](https://github.com/Tammam.Darwish)  
+**الرابط المباشر:** https://github.com/Tammam.Darwish
+
+### كيف تضيفي الدكتور في المستودع؟ / How to Add Professor as Collaborator?
+
+1. اذهبي إلى مستودعك: https://github.com/TalaAmerAlHakim/MyProject
+2. اضغطي على **Settings** (⚙️)
+3. من القائمة اليسرى، اختاري **Collaborators**
+4. اضغطي **Add people**
+5. اكتبي في خانة البحث: `Tammam.Darwish`
+6. اختاري الحساب واضغطي **Add Tammam.Darwish to this repository**
+7. سيصل للدكتور دعوة عبر البريد الإلكتروني
+
+بعد ما يقبل الدكتور الدعوة، سيتمكن من:
+- رؤية المستودع مباشرة
+- تحميل الملفات
+- إضافة تعليقات أو ملاحظات

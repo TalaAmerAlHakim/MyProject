@@ -16,7 +16,8 @@
 
 **اسم المشروع / Project Name:** نظام إدارة العمل عن بعد  
 **اسم المقرر / Course Name:** [أدخل اسم المقرر / Enter course name]  
-**اسم الدكتور / Professor Name:** [أدخل اسم الدكتور / Enter professor name]  
+**اسم الدكتور / Professor Name:** د. تمام درويش / Dr. Tammam Darwish  
+**حساب الدكتور على GitHub:** [@Tammam.Darwish](https://github.com/Tammam.Darwish)  
 **الفصل الدراسي / Semester:** [أدخل الفصل الدراسي / Enter semester]
 
 ---
@@ -60,7 +61,7 @@ https://github.com/TalaAmerAlHakim/MyProject
 
 #### أ) إرسال رابط المستودع / A) Send repository link
 ```
-أستاذي الفاضل،
+د. تمام درويش المحترم،
 
 أتشرف بتقديم مشروعي النهائي بعنوان "نظام إدارة العمل عن بعد"
 
@@ -68,6 +69,11 @@ https://github.com/TalaAmerAlHakim/MyProject
 https://github.com/TalaAmerAlHakim/MyProject
 
 الملف موجود في المستودع باسم: تالا الحكيم_مشروع نظام ادارة العمل عن بعد.pdf
+
+حسابي على GitHub: @TalaAmerAlHakim
+حسابكم على GitHub: @Tammam.Darwish
+
+ملاحظة: يمكنني إضافتكم كمتعاون (Collaborator) في المستودع إذا أردتم.
 
 مع خالص الشكر والتقدير،
 تالا عامر الحكيم
